@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace WebBanHangOnline.Models
-{
+{   //Khoa sửa
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
